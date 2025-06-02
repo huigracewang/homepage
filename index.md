@@ -6,7 +6,7 @@ profile_picture:
 ---
 <strong style="color:#64a1bd">Biography:</strong>
 
-I am an Assistant Professor of Finance at Bentley University. I received a Ph.D. in Finance from the University of Texas at Dallas.
+I am an Assistant Professor of Finance at Bentley University. I received a Ph.D. in Finance from the University of Texas at Dallas. 
 
 <strong style="color:#64a1bd">Education:</strong>
 <ul>
@@ -17,6 +17,6 @@ I am an Assistant Professor of Finance at Bentley University. I received a Ph.D.
 
 <strong style="color:#64a1bd">Research Interest:</strong>
 <ul>
-<li style="list-style-type:circle;font-size:14px">Corporate Finance;</li>
 <li style="list-style-type:circle;font-size:14px">Household Finance;</li>
+<li style="list-style-type:circle;font-size:14px">Corporate Finance;</li>
 </ul>

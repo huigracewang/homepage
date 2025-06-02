@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile_photo.jpg
+  src: /assets/img/profile_photo.png
   alt: website picture
 ---
 <strong style="color:#64a1bd">Biography:</strong>

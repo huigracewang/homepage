@@ -23,8 +23,3 @@ items:
  authors: Hui Wang, <a href="https://sites.google.com/site/hanvictorxia/han-xias-home-page" target="_blank">Han Xia</a>, and <a href="https://discovery.nus.edu.sg/24557-luo-zuo/about" target="_blank">Luo Zuo</a>
     numbering: 4
     
-    description: <strong>The Social Cost of Liquidity Disclosure&#58; Evidence from Hospitals</strong>
-    numbering: 1
-    authors: <a href = "https://sites.google.com/view/thomasbourveau/" target="_blank">Thomas Bourveau</a>, <a href = "https://www.columbia.edu/~xg2285/" target="_blank">Xavier Giroud</a>, <a href = "https://www.yifan-ji.com/" target="_blank">Yifan Ji</a>, and Xuelin Li
-    award: Winner of the 2024 John L. Weinberg/IRRCi Research Paper Competition
----

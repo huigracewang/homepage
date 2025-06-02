@@ -19,4 +19,5 @@ I am an Assistant Professor of Finance at Bentley University. I received a Ph.D.
 <ul>
 <li style="list-style-type:circle;font-size:14px">Household Finance;</li>
 <li style="list-style-type:circle;font-size:14px">Corporate Finance;</li>
+<li style="list-style-type:circle;font-size:14px">Labor and Finance;</li>  
 </ul>

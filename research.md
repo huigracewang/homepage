@@ -11,8 +11,8 @@ pubs:
     abstract: Institutional investors increasingly hold firms in both the industrial and financial sectors. These cross-industry holdings link firms to “outside” banks that they have not borrowed from, creating a network between the two sectors. We show that such networks reduce firms’ loan spreads. This effect is more prominent when cross-holders are actively involved in borrowers’ routine operations and when they have stronger incentives to advocate for borrowers in the loan process. Furthermore, outside banks begin to lend more to firms once the two parties become linked. This network is “behind-the-scenes” because it does not arise from prior interactions between firms and banks, but is instead built through institutions’ cross-holdings.
 
 items:
-  - title: rationedgrowth
-    description: <strong>Appropriated Growth</strong> [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4244951" target="_blank">PDF</a>]
+  - title: hhdebtoverhang
+    description: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4190550" target="_blank"><strong>Household Debt Overhang and Human Capital Investment</strong></a>
     authors: <a href = "https://sites.google.com/umn.edu/yuchen-chen" target="_blank">Yuchen Chen</a>, Xuelin Li, <a href = "https://carlsonschool.umn.edu/faculty/richard-thakor" target="_blank">Richard T. Thakor</a> and <a href="https://sites.google.com/site/cwardweb/colin-ward" target="_blank">Colin Ward</a>
     numbering: 9
     publication: <strong><i>Journal of Financial Economics</i></strong>, revise and resubmit.

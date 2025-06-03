@@ -5,7 +5,8 @@ slug: /Research
 pubs:
   - title: CrossHold
     description:  <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4911" target="_blank"><strong>Networking Behind the Scenes&#58; Institutional Cross-Industry Holdings and Corporate Loan Markets</strong></a>
-    authors: Xuelin Li, <a href="https://sites.google.com/view/tongl" target="_blank">Tong Liu</a>, and <a href="http://finance-faculty.wharton.upenn.edu/luket/" target="_blank">Lucian A. Taylor</a>
+    authors: <a href="https://sites.google.com/view/jie-he/home" target="_blank">Jie (Jack) He</a>, <a href="https://www.sydney.edu.au/business/about/our-people/academic-staff/lantian-liang.html" target="_blank">Lantian Liang</a>, Hui Wang, and <a 
+    href="https://sites.google.com/site/hanvictorxia/han-xias-home-page" target="_blank">Han Xia</a>
     publication: <strong><i>Journal of Financial Economics</i></strong>, Volume 147, Issue 3, Pages 475-497 (March 2023).
     numbering: 1
     abstract: How do innovative firms react when existing products experience negative shocks? We explore this question with detailed project-level data from drug development firms. Using FDA Public Health Advisories as idiosyncratic negative shocks to approved drugs, we examine how drug makers react through investment decisions. Following these shocks, affected firms increase R&D expenditures, driven by a higher likelihood of acquiring external innovations, rather than developing novel projects internally. Such acquisition activities are concentrated in firms with weak research pipelines. We also find that competing developers move resources away from the affected therapeutic areas. Our results show how investments in specialized commercialization capital create path dependencies and alter the direction of R&D investments.

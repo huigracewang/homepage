@@ -4,7 +4,7 @@ title: Research
 slug: /Research
 pubs:
   - title: PHA
-    description: <strong>Find and Replace&#58; R&D Investment Following the Erosion of Existing Products</strong> [<a href="https://www.dropbox.com/s/mchkrlilba17g54/mnsc.2021.4243.pdf?dl=0" target="_blank">PDF</a>]  [<a href="https://www.dropbox.com/s/4xwwueu9if4jlvf/mnsc.2021.4243.sm1.pdf?dl=0" target="_blank">Online Appendix</a>] 
+    description: <strong>Networking Behind the Scenes: Institutional Cross-Industry Holdings and Corporate Loan Markets</strong> [<a href="https://www.dropbox.com/s/mchkrlilba17g54/mnsc.2021.4243.pdf?dl=0" target="_blank">PDF</a>]  [<a href="https://www.dropbox.com/s/4xwwueu9if4jlvf/mnsc.2021.4243.sm1.pdf?dl=0" target="_blank">Online Appendix</a>] 
     authors: Xuelin Li, <a href="https://sites.google.com/view/tongl" target="_blank">Tong Liu</a>, and <a href="http://finance-faculty.wharton.upenn.edu/luket/" target="_blank">Lucian A. Taylor</a>
     publication: <strong><i>Journal of Financial Economics</i></strong>, Volume 147, Issue 3, Pages 475-497 (March 2023).
     numbering: 1

@@ -3,8 +3,8 @@ layout: work
 title: Research
 slug: /Research
 pubs:
-   -title:crosshold
-    description: <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4911" target="_blank">Networking Behind the Scenes: Institutional Cross-Industry Holdings and Corporate Loan Markets</a>
+  - title: PHA
+    description: <strong>Find and Replace&#58; R&D Investment Following the Erosion of Existing Products</strong> [<a href="https://www.dropbox.com/s/mchkrlilba17g54/mnsc.2021.4243.pdf?dl=0" target="_blank">PDF</a>]  [<a href="https://www.dropbox.com/s/4xwwueu9if4jlvf/mnsc.2021.4243.sm1.pdf?dl=0" target="_blank">Online Appendix</a>] 
     authors: <a href="https://sites.google.com/view/jie-he/home" target="_blank">Jie (Jack) He</a>, <a href="https://www.sydney.edu.au/business/about/our-people/academic-staff/lantian-liang.html" target="_blank">Lantian Liang</a>, Hui Wang, and <a href="https://sites.google.com/site/hanvictorxia/han-xias-home-page" target="_blank">Han Xia</a>
     publication: <strong><i>Management Science</i></strong>, 70(7): 4932–4952 (July 2024).
     numbering: 1

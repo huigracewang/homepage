@@ -4,7 +4,7 @@ title: Research
 slug: /Research
 pubs:
   - title: PHA
-    description:  <a href="https://www.dropbox.com/s/mchkrlilba17g54/mnsc.2021.4243.pdf?dl=0" target="_blank"><strong>Networking Behind the Scenes&#58; Institutional Cross-Industry Holdings and Corporate Loan Markets</strong></a>
+    description:  <a href="Networking Behind the Scenes: Institutional Cross-Industry Holdings and Corporate Loan Markets" target="_blank"><strong>Networking Behind the Scenes&#58; Institutional Cross-Industry Holdings and Corporate Loan Markets</strong></a>
     authors: Xuelin Li, <a href="https://sites.google.com/view/tongl" target="_blank">Tong Liu</a>, and <a href="http://finance-faculty.wharton.upenn.edu/luket/" target="_blank">Lucian A. Taylor</a>
     publication: <strong><i>Journal of Financial Economics</i></strong>, Volume 147, Issue 3, Pages 475-497 (March 2023).
     numbering: 1

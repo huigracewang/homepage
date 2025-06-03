@@ -22,4 +22,5 @@ items:
     numbering: 3
     coverage: Covered by <a href="https://blogs.lse.ac.uk/usappblog/2024/02/20/student-loans-can-influence-households-decisions-about-how-much-to-work-when-they-have-debts/" target="_blank">LSE USAPP Blog</a>
     abstract: We develop a dynamic household finance model showing that student loans—nondischargeable in the U.S. bankruptcy—alleviate the well-documented debt overhang in labor supply decisions. Non-dischargeability mutes opportunities for households to strategically reduce labor supply at the expense of creditors, thus correcting incentive distortions. This corrective effect, however, is partially undone by Income Driven Repayment (IDR) plans, which set student loan payments formulaically regardless of outstanding balance. IDR thus allows households to pseudo "discharge" student debt and reactivates debt overhang. We supplement our model with empirical analyses and uncover potentially unintended consequences of proposed reforms in student loans.
+    
 ---

@@ -3,8 +3,8 @@ layout: work
 title: Research
 slug: /Research
 pubs:
-  - title: CrossHold
-    description: <strong>Networking Behind the Scenes: Institutional Cross-Industry Holdings and Corporate Loan Markets</strong> [<a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4911" target="_blank">PDF</a>] [<a href="https://www.dropbox.com/s/jemf5sje5v8rn7v/OnlineAppendix_Li_Liu_Taylor.pdf?dl=0" target="_blank">Online Appendix</a>] 
+ - title: VCPharm
+    description: <strong>Common Ownership and Innovation Efficiency</strong> [<a href="https://www.dropbox.com/scl/fi/hlmybqnewxn185injxwpc/LLT_JFE_2023.pdf?rlkey=g8gn8e3m1hv7qk8xtehphhfvu&dl=0" target="_blank">PDF</a>]  [<a href="https://www.dropbox.com/s/jemf5sje5v8rn7v/OnlineAppendix_Li_Liu_Taylor.pdf?dl=0" target="_blank">Online Appendix</a>]
     authors: Xuelin Li, <a href="https://sites.google.com/view/tongl" target="_blank">Tong Liu</a>, and <a href="http://finance-faculty.wharton.upenn.edu/luket/" target="_blank">Lucian A. Taylor</a>
     publication: <strong><i>Journal of Financial Economics</i></strong>, Volume 147, Issue 3, Pages 475-497 (March 2023).
     numbering: 1

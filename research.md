@@ -3,7 +3,7 @@ layout: work
 title: Research
 slug: /Research
 pubs:
-  - title: crosshold
+  - title: Crosshold
     description: <strong>Networking Behind the Scenes: Institutional Cross-Industry Holdings and Corporate Loan Markets</strong> [<a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4911" target="_blank">PDF</a>]  
     authors: Xuelin Li, <a href="https://sites.google.com/view/tongl" target="_blank">Tong Liu</a>, and <a href="http://finance-faculty.wharton.upenn.edu/luket/" target="_blank">Lucian A. Taylor</a>
     publication: <strong><i>Journal of Financial Economics</i></strong>, Volume 147, Issue 3, Pages 475-497 (March 2023).

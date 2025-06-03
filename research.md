@@ -4,7 +4,7 @@ title: Research
 slug: /Research
 pubs:
   - title: CrossHold
-    description: <strong>Networking Behind the Scenes: Institutional Cross-Industry Holdings and Corporate Loan Markets</strong> [<a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4911" target="_blank">PDF</a>]
+     description: <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4911" target="_blank">Household Debt Overhang and Human Capital Investment</a>
     authors: <a href="https://sites.google.com/view/jie-he/home" target="_blank">Jie (Jack) He</a>, <a href="https://www.sydney.edu.au/business/about/our-people/academic-staff/lantian-liang.html" target="_blank">Lantian Liang</a>, Hui Wang, and <a href="https://sites.google.com/site/hanvictorxia/han-xias-home-page" target="_blank">Han Xia</a>
     publication: <strong><i>Management Science</i></strong>, 70(7): 4932–4952 (July 2024).
     numbering: 1

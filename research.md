@@ -28,5 +28,4 @@ items:
     authors: Hui Wang,  <a href="https://sites.google.com/site/hanvictorxia/han-xias-home-page" target="_blank">Han Xia</a>, and <a href="https://discovery.nus.edu.sg/24557-luo-zuo/about" target="_blank">Luo Zuo</a>
     numbering: 4
     abstract: We develop a dynamic household finance model showing that student loans—nondischargeable in the U.S. bankruptcy—alleviate the well-documented debt overhang in labor supply decisions. Non-dischargeability mutes opportunities for households to strategically reduce labor supply at the expense of creditors, thus correcting incentive distortions. This corrective effect, however, is partially undone by Income Driven Repayment (IDR) plans, which set student loan payments formulaically regardless of outstanding balance. IDR thus allows households to pseudo "discharge" student debt and reactivates debt overhang. We supplement our model with empirical analyses and uncover potentially unintended consequences of proposed reforms in student loans.
-    
 ---

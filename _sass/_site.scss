@@ -1,6 +1,6 @@
 .profilepic {
   float: right;
-  border: #ccc 1px solid;
+  border: none;
   margin-left: 20px;
   height: 400px;
 
@@ -12,7 +12,7 @@
 }
 
 .footer-col {
-  font-size: 20px;
+  font-size: 18px;
 
   h4 {
     margin-bottom: 0;
@@ -56,12 +56,11 @@
   text-align: center;
 
   p {
-    font-size: 11px;
-    line-height: 16px;
-    font-family: Helvetica, sans-serif;
-    width: 170px;
-    margin: 0 auto;
-    margin-bottom: 14px;
+    font-size: 18px;
+    line-height: 1.8;
+    font-family: $base-font-family;
+    wmax-width: 700px;
+    margin-bottom: 1em;
   }
 
   #qr-code {

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teach
+title: Teaching
 slug: /T
 ---
 

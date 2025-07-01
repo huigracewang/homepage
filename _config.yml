@@ -15,7 +15,7 @@ header:
     - name: Home
       slug: /
     - name: Research
-    - name: Teach
+    - name: Teaching
 
 footer:
   show_powered_by: false

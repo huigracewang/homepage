@@ -3,6 +3,7 @@
   border: none;
   margin-left: 20px;
   height: 400px;
+  margin-top: -18px;
 
   @include media-query($on-mobile) {
     float: none;

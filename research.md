@@ -5,7 +5,7 @@ slug: /Research
 pubs:
   - title: CrossHold
     description:  <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4911" target="_blank"><strong>Networking Behind the Scenes&#58; Institutional Cross-Industry Holdings and Corporate Loan Markets</strong></a>
-    publication: <strong><i>Management Science</i></strong>, 2024, 70(7).
+    publication: <strong><i>Management Science</i></strong>, 2023, 70(7).
     authors: <a href="https://sites.google.com/view/jie-he/home" target="_blank">Jie He</a>, <a href="https://www.sydney.edu.au/business/about/our-people/academic-staff/lantian-liang.html" target="_blank">Lantian Liang</a>, Hui Wang, and <a href="https://sites.google.com/site/hanvictorxia/han-xias-home-page" target="_blank">Han Xia</a>
     numbering: 1
     abstract: Institutional investors increasingly hold firms in both the industrial and financial sectors. These cross-industry holdings link firms to “outside” banks that they have not borrowed from, creating a network between the two sectors. We show that such networks reduce firms’ loan spreads. This effect is more prominent when cross-holders are actively involved in borrowers’ routine operations and when they have stronger incentives to advocate for borrowers in the loan process. Furthermore, outside banks begin to lend more to firms once the two parties become linked. This network is “behind-the-scenes” because it does not arise from prior interactions between firms and banks, but is instead built through institutions’ cross-holdings.

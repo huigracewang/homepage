@@ -42,7 +42,7 @@ progress:
     numbering: 6
   - title: opportunity
     description: <strong>Who Seizes Opportunity? Personality, Housing Market, and Entrepreneurship</strong>
-    authors: Hui Wang and Maya Bidanda
+    authors: Maya Bidanda and Hui Wang
     numbering: 7
   - title: stuloanai
     description: <strong>Student Loan Borrowers and Generative AI Exposure&#58; Evidence from Job Tasks</strong>

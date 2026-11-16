@@ -14,9 +14,14 @@
             <span class="work-text">
               <span style="color:#3f51b5"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
               {{ item.description }}<br />
-              {{ item.authors }}<br />
+              {% if item.authors != "" and item.authors != nil %}
+                {{ item.authors }}<br />
+              {% endif %}
               {% if item.publication != "" and item.publication != nil %}
                 {{ item.publication }}<br />
+              {% endif %}
+              {% if item.conferences != "" and item.conferences != nil %}
+                <p style="margin: 0em;"> - {{ item.conferences }}</p>
               {% endif %}
               {% if item.coverage != "" and item.coverage != nil %}
                 <p style="margin: 0em;"> - {{ item.coverage }}</p>
@@ -40,9 +45,14 @@
             <span class="work-text">
               <span style="color:#3f51b5"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
               {{ item.description }}<br />
-              {{ item.authors }}<br />
+              {% if item.authors != "" and item.authors != nil %}
+                {{ item.authors }}<br />
+              {% endif %}
               {% if item.publication != "" and item.publication != nil %}
                 {{ item.publication }}<br />
+              {% endif %}
+              {% if item.conferences != "" and item.conferences != nil %}
+                <p style="margin: 0em;"> - {{ item.conferences }}</p>
               {% endif %}
               {% if item.coverage != "" and item.coverage != nil %}
                 <p style="margin: 0em;"> - {{ item.coverage }}</p>
@@ -63,9 +73,14 @@
             <span class="work-text">
               <span style="color:#3f51b5"><strong>&nbsp;{{ item.numbering }}&nbsp;</strong></span>
               {{ item.description }}<br />
-              {{ item.authors }}<br />
+              {% if item.authors != "" and item.authors != nil %}
+                {{ item.authors }}<br />
+              {% endif %}
               {% if item.publication != "" and item.publication != nil %}
                 {{ item.publication }}<br />
+              {% endif %}
+              {% if item.conferences != "" and item.conferences != nil %}
+                <p style="margin: 0em;"> - {{ item.conferences }}</p>
               {% endif %}
               {% if item.coverage != "" and item.coverage != nil %}
                 <p style="margin: 0em;"> - {{ item.coverage }}</p>

@@ -10,4 +10,4 @@ I am an Assistant Professor of Finance at Bentley University. My research is in 
 
 My research has been published in the <i>Journal of Financial Economics</i> and <i>Management Science</i>, and presented at the annual meetings of the American Finance Association, Western Finance Association, and European Finance Association, as well as the SFS Cavalcade. My work on student loans has been featured on the LSE USAPP Blog and in the American Economic Association’s poster program.
 
-I received my Ph.D. in Finance from the University of Texas at Dallas in 2020.
+I joined Bentley University in 2020 after receiving my Ph.D. in Finance from the University of Texas at Dallas.

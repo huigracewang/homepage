@@ -7,19 +7,23 @@
 // Our variables
 $base-url: "{{ site.baseurl }}";
 
-$base-font-family: Charter, Georgia, sans-serif;
-$base-font-size: 20px;
+$base-font-family: "Source Serif 4", Charter, Georgia, serif;
+$base-font-size: 18px;
 $small-font-size: $base-font-size * 0.875;
-$base-line-height: 1.6;
+$base-line-height: 1.65;
 
 $spacing-unit: 40px;
 
-$text-color: #2b2b2b;
-$background-color: #ffffff;
-$brand-color: #336699;
+$text-color: #24292f;
+$background-color: #fcfbf8;
+$brand-color: #1f3a5f;      // link navy
+$title-color: #14213d;      // site title
+$muted-color: #4a5568;      // navigation
+$accent-color: #8a6d3b;     // section headings (bronze)
+$rule-color: #e6e1d6;       // hairlines
 
 $grey-color: #e0e0e0;
-$grey-color-light: #f5f5f5;
+$grey-color-light: #efece4;
 $grey-color-dark: #999999;
 
 $on-mobile: 450px;
@@ -32,4 +36,4 @@ $on-laptop: 800px;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import "base", "layout", "site", "work", "blog", "post", "404";
+@import "base", "layout", "site", "work", "blog", "post", "404", "theme";

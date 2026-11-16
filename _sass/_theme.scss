@@ -1,0 +1,87 @@
+/**
+ * Theme: typography and colour refinements.
+ * Colours and the font are set as variables at the top of assets/css/main.scss.
+ */
+
+// Site title and navigation
+.site-header {
+  border-bottom-color: $rule-color;
+}
+
+.site-title {
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  border-bottom: none;
+
+  &,
+  &:visited,
+  &:hover {
+    color: $title-color;
+  }
+
+  strong {
+    font-weight: 600;
+  }
+}
+
+.site-nav {
+  a,
+  .page-link {
+    border-bottom: none;
+    color: $muted-color;
+    letter-spacing: 0.02em;
+
+    &:visited {
+      color: $muted-color;
+    }
+
+    &:hover {
+      color: $title-color;
+    }
+  }
+
+  .page-link {
+    font-size: 17px;
+
+    @include media-query($on-mobile) {
+      font-size: 14px;
+    }
+  }
+}
+
+// Section headings ("Publication", "Working Paper", ...)
+.page-heading {
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: $accent-color;
+  border-bottom: 1px solid $rule-color;
+  padding-bottom: 0.4em;
+  margin-top: 2.2em;
+
+  &:first-child {
+    margin-top: 0.5em;
+  }
+}
+
+// Research list
+.work-number {
+  color: $brand-color;
+}
+
+summary {
+  color: #6b7280;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+// Images that are links should not get an underline
+a > img {
+  border-bottom: none;
+}
+
+.site-footer {
+  border-top-color: $rule-color;
+}

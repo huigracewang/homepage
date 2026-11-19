@@ -37,14 +37,11 @@ items:
     abstract: >-
       We study employees’ response when their employers’ negative ESG incidents are revealed to market participants. Using the setting of financial analysts and brokerage houses, we find that following negative ESG news, analysts provide higher quality research by producing more accurate earnings forecasts. This improvement is mostly driven by analysts dialing down previous overly optimistic assessments, and it is absent when their prior assessments are relatively pessimistic. Analysts largely stay with their employed brokers confronted by ESG incidents; among the ones leaving to join other brokers, we do not observe a significant improvement in their research quality at the new jobs. Our results highlight that the revelation of brokers’ negative ESG profile has a silver lining: it improves analysts’ research and alleviates potentially biased assessments. Because ESG constitutes an important part of firms’ intangible assets, our study has broader implications on how employees react to negative events affecting the value of intangible assets.
 progress:
-  - title: witnessing
-    description: <strong>Witnessing Automation&#58; Analysts' Local Experience and Forecast Optimism</strong>
-    numbering: 6
   - title: opportunity
     description: <strong>Who Seizes Opportunity? Personality, Housing Market, and Entrepreneurship</strong>
     authors: <a href="https://www.mayabidanda.com/" target="_blank">Maya Bidanda</a> and Hui Wang
-    numbering: 7
+    numbering: 6
   - title: stuloanai
     description: <strong>Student Loan Borrowers and Generative AI Exposure&#58; Evidence from Job Tasks</strong>
-    numbering: 8
+    numbering: 7
 ---
